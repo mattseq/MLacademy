@@ -1,0 +1,2 @@
+The Classification and ReinforcementLearning folders both have their own READMEs about how to run them. They have a ton of helper code but the exercises folder is what I did and contains the actual algorithms.
+K-means is a Jupyter notebook with all the code in it so it's pretty self-explanatory. (I haven't done Part 2 yet)
